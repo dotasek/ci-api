@@ -44,7 +44,7 @@
 						<Bundle-SymbolicName>${bundle.symbolicName}</Bundle-SymbolicName>
 						<Bundle-Version>${project.version}</Bundle-Version>
 						<Export-Package>
-								org.cytoscape.ci, org.cytoscape.ci.models
+								org.cytoscape.ci, org.cytoscape.ci.model
 						</Export-Package>
 					</instructions>
 				</configuration>				
