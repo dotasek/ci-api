@@ -11,9 +11,9 @@
 
 	<groupId>org.cytoscape</groupId>
 	<packaging>bundle</packaging>
-	<version>1.0-SNAPSHOT</version>
+	<version>0.1.0-SNAPSHOT</version>
 	
-	<name>Cytoscape CI Api</name>
+	<name>Cytoscape CI API</name>
 
 	<build>
 		<plugins>
@@ -100,4 +100,5 @@
 	
 
 	<artifactId>ci-api</artifactId>
+	<description>This is a TEMPORARY, COMPILE ONLY bundle intended to support CyREST before Cytoscape makes certain API changes. Any projects that use this for compilation should ONLY use it for Cytoscape API 3.5.x</description>
 </project>
