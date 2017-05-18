@@ -11,7 +11,7 @@
 
 	<groupId>org.cytoscape</groupId>
 	<packaging>bundle</packaging>
-	<version>0.1.0-SNAPSHOT</version>
+	<version>3.6.0-SNAPSHOT</version>
 	
 	<name>Cytoscape CI API</name>
 
